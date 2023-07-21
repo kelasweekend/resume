@@ -1,0 +1,112 @@
+{
+    "projects": [
+        {
+            "title": "Kirimnotif ID",
+            "description": "Platform APi WHatsapp Tercepat dan Murah",
+            "link": "https://kirimnotif.com",
+            "image": "resume-1.jpg"
+        },
+        {
+            "title": "Sokawera Profile",
+            "description": "Sistem Informasi Geografis Desa Sokawera",
+            "link": "https://sokawera-kidul.my.id",
+            "image": "resume-1.jpg"
+        },
+        {
+            "title": "Wialung Core",
+            "description": "Website Desa Integrasi REST APi dan Marketplace",
+            "link": "https://wialung.com",
+            "image": "resume-1.jpg"
+        },
+        {
+            "title": "Baseh Profile",
+            "description": "Website Desa Baseh dan Digitalisasi Buku",
+            "link": "https://sipdawa-baseh.com",
+            "image": "resume-1.jpg"
+        },
+        {
+            "title": "Asdosku Company",
+            "description": "Website CV Asdosku Bakhti Nusantara",
+            "link": "https://asdosku.com",
+            "image": "resume-1.jpg"
+        },
+        {
+            "title": "Ayoo Ujian",
+            "description": "Website Ujian Online Berbasis CBT System",
+            "link": "https://github.com/kelasweekend/Exam-CBT-Template",
+            "image": "resume-1.jpg"
+        },
+        {
+            "title": "AntrianBos",
+            "description": "Website Antrian dengan multi loket realtime",
+            "link": "https://github.com/kelasweekend/laravel-antrian-sistem",
+            "image": "resume-1.jpg"
+        },
+        {
+            "title": "Alfariz Trans",
+            "description": "Website Penyewaan Bus Alfariz Trans",
+            "link": "https://github.com/kelasweekend/alfariz-trans",
+            "image": "resume-1.jpg"
+        },
+        {
+            "title": "SJH Garage",
+            "description": "Website Managament Bengkel dan Toko",
+            "link": "https://github.com/kelasweekend/SJH_Garage",
+            "image": "resume-1.jpg"
+        },
+        {
+            "title": "Laravel PostgreSQL",
+            "description": "Sampel CRUD dengan database PostGreSQL ORM",
+            "link": "https://github.com/kelasweekend/Laravel-CRUD-PostgreSQL",
+            "image": "resume-1.jpg"
+        },
+        {
+            "title": "Golang Rest API",
+            "description": "Sampel Restfull API with Unit Test Golang GORM",
+            "link": "https://github.com/kelasweekend/Golang-Rest-APi-With-Unit-Test",
+            "image": "resume-1.jpg"
+        },
+        {
+            "title": "Algoriterm",
+            "description": "Belajar Koding dengan Screencast dan Ebook",
+            "link": "https://github.com/kelasweekend/algoriterm-fe",
+            "image": "resume-1.jpg"
+        },
+        {
+            "title": "Mini Banking",
+            "description": "Website BANK sederhana dengan laravel dan RFID",
+            "link": "https://github.com/kelasweekend/IOT-RFID-Laravel-8",
+            "image": "resume-1.jpg"
+        },
+        {
+            "title": "Bootstrap Ecommerce",
+            "description": "HTML Bootstrap 5 Ecommerce Sederhana",
+            "link": "https: //kelasweekend.github.io/bootstrap-ecommerce/",
+            "image": "resume-1.jpg"
+        },
+        {
+            "title": "Wialung Apps",
+            "description": "Aplikasi Marketplace Desa dan E Ticketing",
+            "link": "https://example.com/project3",
+            "image": "resume-1.jpg"
+        },
+        {
+            "title": "Qur'an Apps",
+            "description": "Aplikasi Al Quran Terjemahan Digital",
+            "link": "https://example.com/project3",
+            "image": "resume-1.jpg"
+        },
+        {
+            "title": "Siap Absen Apps",
+            "description": "Aplikasi Absensi Berbasis Camera dan Lokasi",
+            "link": "https://example.com/project3",
+            "image": "resume-1.jpg"
+        },
+        {
+            "title": "Igracias App Reborn",
+            "description": "Aplikasi Kampus IT Telkom Purwokerto",
+            "link": "https://example.com/project3",
+            "image": "resume-1.jpg"
+        }
+    ]
+}
