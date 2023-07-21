@@ -87,32 +87,32 @@
         {
             "title": "Bootstrap Ecommerce",
             "description": "HTML Bootstrap 5 Ecommerce Sederhana",
-            "link": "https: //kelasweekend.github.io/bootstrap-ecommerce/",
+            "link": "https://kelasweekend.github.io/bootstrap-ecommerce/",
             "image": "toko.png"
         },
         {
             "title": "Wialung Apps",
             "description": "Aplikasi Marketplace Desa dan E Ticketing",
-            "link": "https://example.com/project3",
-            "image": "resume-1.jpg"
+            "link": "https://play.google.com/store/apps/details?id=com.wialung.mob_wialung",
+            "image": "wialung-app.png"
         },
         {
             "title": "Qur'an Apps",
             "description": "Aplikasi Al Quran Terjemahan Digital",
-            "link": "https://example.com/project3",
-            "image": "resume-1.jpg"
+            "link": "#",
+            "image": "quran.png"
         },
         {
             "title": "Siap Absen Apps",
             "description": "Aplikasi Absensi Berbasis Camera dan Lokasi",
-            "link": "https://example.com/project3",
-            "image": "resume-1.jpg"
+            "link": "#",
+            "image": "siapabsen.png"
         },
         {
             "title": "Igracias App Reborn",
             "description": "Aplikasi Kampus IT Telkom Purwokerto",
-            "link": "https://example.com/project3",
-            "image": "resume-1.jpg"
+            "link": "#",
+            "image": "igracias.png"
         }
     ]
 }
