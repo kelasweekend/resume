@@ -10,13 +10,13 @@
             "title": "Sokawera Profile",
             "description": "Sistem Informasi Geografis Desa Sokawera",
             "link": "https://sokawera-kidul.my.id",
-            "image": "resume-1.jpg"
+            "image": "sokawera.png"
         },
         {
             "title": "Wialung Core",
             "description": "Website Desa Integrasi REST APi dan Marketplace",
             "link": "https://wialung.com",
-            "image": "resume-1.jpg"
+            "image": "wialung.png"
         },
         {
             "title": "Baseh Profile",
@@ -28,61 +28,67 @@
             "title": "Asdosku Company",
             "description": "Website CV Asdosku Bakhti Nusantara",
             "link": "https://asdosku.com",
-            "image": "resume-1.jpg"
+            "image": "asdosku.png"
         },
         {
             "title": "Ayoo Ujian",
             "description": "Website Ujian Online Berbasis CBT System",
             "link": "https://github.com/kelasweekend/Exam-CBT-Template",
-            "image": "resume-1.jpg"
+            "image": "ujian.png"
         },
         {
             "title": "AntrianBos",
             "description": "Website Antrian dengan multi loket realtime",
             "link": "https://github.com/kelasweekend/laravel-antrian-sistem",
-            "image": "resume-1.jpg"
+            "image": "antrian.png"
         },
         {
             "title": "Alfariz Trans",
             "description": "Website Penyewaan Bus Alfariz Trans",
             "link": "https://github.com/kelasweekend/alfariz-trans",
-            "image": "resume-1.jpg"
+            "image": "empty.png"
         },
         {
             "title": "SJH Garage",
             "description": "Website Managament Bengkel dan Toko",
             "link": "https://github.com/kelasweekend/SJH_Garage",
-            "image": "resume-1.jpg"
+            "image": "sjh.png"
         },
         {
             "title": "Laravel PostgreSQL",
             "description": "Sampel CRUD dengan database PostGreSQL ORM",
             "link": "https://github.com/kelasweekend/Laravel-CRUD-PostgreSQL",
-            "image": "resume-1.jpg"
+            "image": "empty.png"
         },
         {
             "title": "Golang Rest API",
             "description": "Sampel Restfull API with Unit Test Golang GORM",
             "link": "https://github.com/kelasweekend/Golang-Rest-APi-With-Unit-Test",
-            "image": "resume-1.jpg"
+            "image": "empty.png"
         },
         {
             "title": "Algoriterm",
             "description": "Belajar Koding dengan Screencast dan Ebook",
             "link": "https://github.com/kelasweekend/algoriterm-fe",
-            "image": "resume-1.jpg"
+            "image": "algoriterm.png"
+        },
+        {
+            "title": "Cek Tiket KAI",
+            "description": "Informasi jadwal keberangkatan kereta",
+            "link": "https://github.com/kelasweekend/Cek-Jadwal-Kereta-API",
+            "image": "kai.png"
         },
         {
             "title": "Mini Banking",
             "description": "Website BANK sederhana dengan laravel dan RFID",
             "link": "https://github.com/kelasweekend/IOT-RFID-Laravel-8",
-            "image": "resume-1.jpg"
+            "image": "empty.png"
         },
         {
             "title": "Bootstrap Ecommerce",
             "description": "HTML Bootstrap 5 Ecommerce Sederhana",
             "link": "https: //kelasweekend.github.io/bootstrap-ecommerce/",
-            "image": "resume-1.jpg"
+            "image": "toko.png"
         },
         {
             "title": "Wialung Apps",
